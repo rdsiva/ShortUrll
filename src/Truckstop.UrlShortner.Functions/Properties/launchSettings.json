@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "Truckstop.UrlShortner.Functions": {
+    "UrlShortner.Functions": {
       "commandName": "Project",
       "commandLineArgs": "--port 7113",
       "launchBrowser": false

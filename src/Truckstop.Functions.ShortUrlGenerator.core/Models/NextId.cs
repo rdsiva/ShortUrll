@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Truckstop.Functions.ShortUrlGenerator.Domain.Models
+namespace Functions.ShortUrlGenerator.Domain.Models
 {
     public class NextId : TableEntity
     {

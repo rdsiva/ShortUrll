@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/bQSaS7dn9niLnrb1+Ab6vmywglVe9th8kltR1tFilryAsVDq9IYQdA6EguvijsHF5dSaU2v+aQkRpHPVMewUg==",
+  "dgSpecHash": "4WLFLaIA1otNrZFQPimrAaePoj8fGY50wU5/dnE5Z4wP7K8um5oeIVD9uIAuYupgYSvuz4NalL2j5U5fgLdVsA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\V5\\POC\\TsShortUrlGenerator\\AzFunctions\\Truckstop.Functions.ShortUrlGenerator.Contract\\Truckstop.Functions.ShortUrlGenerator.Contract.csproj",
+  "projectFilePath": "C:\\Projects\\V5\\POC\\AzFunctions\\src\\Truckstop.Functions.ShortUrlGenerator.Contract\\Functions.ShortUrlGenerator.Contract.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

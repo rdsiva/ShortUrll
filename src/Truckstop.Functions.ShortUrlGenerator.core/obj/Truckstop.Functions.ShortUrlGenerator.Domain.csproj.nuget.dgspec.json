@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\V5\\POC\\TsShortUrlGenerator\\AzFunctions\\Truckstop.Functions.ShortUrlGenerator.core\\Truckstop.Functions.ShortUrlGenerator.Domain.csproj": {}
+    "C:\\Projects\\V5\\POC\\AzFunctions\\src\\Truckstop.Functions.ShortUrlGenerator.core\\Truckstop.Functions.ShortUrlGenerator.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\V5\\POC\\TsShortUrlGenerator\\AzFunctions\\Truckstop.Functions.ShortUrlGenerator.core\\Truckstop.Functions.ShortUrlGenerator.Domain.csproj": {
+    "C:\\Projects\\V5\\POC\\AzFunctions\\src\\Truckstop.Functions.ShortUrlGenerator.core\\Truckstop.Functions.ShortUrlGenerator.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\V5\\POC\\TsShortUrlGenerator\\AzFunctions\\Truckstop.Functions.ShortUrlGenerator.core\\Truckstop.Functions.ShortUrlGenerator.Domain.csproj",
+        "projectUniqueName": "C:\\Projects\\V5\\POC\\AzFunctions\\src\\Truckstop.Functions.ShortUrlGenerator.core\\Truckstop.Functions.ShortUrlGenerator.Domain.csproj",
         "projectName": "Truckstop.Functions.ShortUrlGenerator.Domain",
-        "projectPath": "C:\\Projects\\V5\\POC\\TsShortUrlGenerator\\AzFunctions\\Truckstop.Functions.ShortUrlGenerator.core\\Truckstop.Functions.ShortUrlGenerator.Domain.csproj",
+        "projectPath": "C:\\Projects\\V5\\POC\\AzFunctions\\src\\Truckstop.Functions.ShortUrlGenerator.core\\Truckstop.Functions.ShortUrlGenerator.Domain.csproj",
         "packagesPath": "C:\\Users\\SivarajaDhanapal\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\V5\\POC\\TsShortUrlGenerator\\AzFunctions\\Truckstop.Functions.ShortUrlGenerator.core\\obj\\",
+        "outputPath": "C:\\Projects\\V5\\POC\\AzFunctions\\src\\Truckstop.Functions.ShortUrlGenerator.core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -18,11 +18,11 @@ using Microsoft.Azure.WebJobs.Extensions.OpenApi.Core.Extensions;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using Newtonsoft.Json;
-using Truckstop.Functions.ShortUrlGenerator.Contract;
-using Truckstop.Functions.ShortUrlGenerator.Domain;
-using Truckstop.Functions.ShortUrlGenerator.Domain.Models;
+using Functions.ShortUrlGenerator.Contract;
+using Functions.ShortUrlGenerator.Domain;
+using Functions.ShortUrlGenerator.Domain.Models;
 
-namespace Truckstop.UrlShortner.Functions
+namespace UrlShortner.Functions
 {
     public class ShortUrlStats
     {

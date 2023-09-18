@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Truckstop.UrlShortner.Functions
+namespace UrlShortner.Functions
 {
     public class ShortUrlSettings
     {

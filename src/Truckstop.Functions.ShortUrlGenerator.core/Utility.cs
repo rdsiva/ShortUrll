@@ -6,7 +6,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Truckstop.Functions.ShortUrlGenerator.Domain
+namespace Functions.ShortUrlGenerator.Domain
 {
     public static class Utility
     {

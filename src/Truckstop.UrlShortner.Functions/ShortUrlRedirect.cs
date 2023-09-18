@@ -14,10 +14,10 @@ using Microsoft.Azure.WebJobs.Extensions.OpenApi.Core.Enums;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using Newtonsoft.Json;
-using Truckstop.Functions.ShortUrlGenerator.Domain;
-using Truckstop.Functions.ShortUrlGenerator.Domain.Models;
+using Functions.ShortUrlGenerator.Domain;
+using Functions.ShortUrlGenerator.Domain.Models;
 
-namespace Truckstop.UrlShortner.Functions
+namespace UrlShortner.Functions
 {
     public class ShortUrlRedirect
     {
@@ -38,7 +38,7 @@ namespace Truckstop.UrlShortner.Functions
             _logger.LogInformation("Function processed list ShortURL request.");
 
           
-            string redirectUrl = "https://truckstop.com";
+            string redirectUrl = "https://com";
 
 
             StorageTableHelper stgHelper = new StorageTableHelper(ShortUrlSettings.StorageConnectionString);

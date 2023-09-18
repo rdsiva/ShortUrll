@@ -7,11 +7,11 @@ using Microsoft.OpenApi.Models;
 using System;
 using System.Net;
 using System.Threading.Tasks;
-using Truckstop.Functions.ShortUrlGenerator.Contract;
-using Truckstop.Functions.ShortUrlGenerator.Domain;
-using Truckstop.Functions.ShortUrlGenerator.Domain.Models;
+using Functions.ShortUrlGenerator.Contract;
+using Functions.ShortUrlGenerator.Domain;
+using Functions.ShortUrlGenerator.Domain.Models;
 
-namespace Truckstop.UrlShortner.Functions
+namespace UrlShortner.Functions
 {
     public class ShortUrlCreate
     {

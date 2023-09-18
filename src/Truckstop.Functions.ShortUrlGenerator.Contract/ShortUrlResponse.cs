@@ -1,4 +1,4 @@
-﻿namespace Truckstop.Functions.ShortUrlGenerator.Contract
+﻿namespace Functions.ShortUrlGenerator.Contract
 {
     public class ShortUrlResponse
     {

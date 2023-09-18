@@ -1,8 +1,8 @@
 ﻿using Microsoft.Azure.Cosmos.Table;
 using Microsoft.Extensions.Configuration;
-using Truckstop.Functions.ShortUrlGenerator.Domain.Models;
+using Functions.ShortUrlGenerator.Domain.Models;
 
-namespace Truckstop.Functions.ShortUrlGenerator.Domain
+namespace Functions.ShortUrlGenerator.Domain
 {
     public class StorageTableHelper
     {

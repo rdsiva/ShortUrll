@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+SNZm04fHYQPjc3VdNXjUDQ9g8cEoveEFwk13Y7WN7DzKI3P1XoaBVaOuBHXxpkV2iBoTDEKrq2ahtsT6wIZhA==",
+  "dgSpecHash": "dplXnfvrLwycHwIIgoO2XzzmmoUk32g4J6IsDwVdDwe16hqEKYsE1PmQGW4jBcfkK0Ppo0QlqfmLpgPRU0kIhA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\V5\\POC\\TsShortUrlGenerator\\AzFunctions\\Truckstop.Functions.ShortUrlGenerator.core\\Truckstop.Functions.ShortUrlGenerator.Domain.csproj",
+  "projectFilePath": "C:\\Projects\\V5\\POC\\AzFunctions\\src\\Truckstop.Functions.ShortUrlGenerator.core\\Functions.ShortUrlGenerator.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
     "C:\\Users\\SivarajaDhanapal\\.nuget\\packages\\microsoft.azure.cosmos\\3.0.0\\microsoft.azure.cosmos.3.0.0.nupkg.sha512",
