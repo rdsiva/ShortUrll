@@ -1,0 +1,14 @@
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.UrlShortner.Functions\bin\output\Truckstop.Functions.ShortUrlGenerator.Contract.deps.json
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.UrlShortner.Functions\bin\output\Truckstop.Functions.ShortUrlGenerator.Contract.dll
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.UrlShortner.Functions\bin\output\Truckstop.Functions.ShortUrlGenerator.Contract.pdb
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.Contract\bin\Debug\net6.0\Truckstop.Functions.ShortUrlGenerator.Contract.deps.json
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.Contract\bin\Debug\net6.0\Truckstop.Functions.ShortUrlGenerator.Contract.dll
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.Contract\bin\Debug\net6.0\Truckstop.Functions.ShortUrlGenerator.Contract.pdb
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.Contract\obj\Debug\net6.0\Truckstop.Functions.ShortUrlGenerator.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.Contract\obj\Debug\net6.0\Truckstop.Functions.ShortUrlGenerator.Contract.AssemblyInfoInputs.cache
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.Contract\obj\Debug\net6.0\Truckstop.Functions.ShortUrlGenerator.Contract.AssemblyInfo.cs
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.Contract\obj\Debug\net6.0\Truckstop.Functions.ShortUrlGenerator.Contract.csproj.CoreCompileInputs.cache
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.Contract\obj\Debug\net6.0\Truckstop.Functions.ShortUrlGenerator.Contract.dll
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.Contract\obj\Debug\net6.0\refint\Truckstop.Functions.ShortUrlGenerator.Contract.dll
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.Contract\obj\Debug\net6.0\Truckstop.Functions.ShortUrlGenerator.Contract.pdb
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.Contract\obj\Debug\net6.0\ref\Truckstop.Functions.ShortUrlGenerator.Contract.dll

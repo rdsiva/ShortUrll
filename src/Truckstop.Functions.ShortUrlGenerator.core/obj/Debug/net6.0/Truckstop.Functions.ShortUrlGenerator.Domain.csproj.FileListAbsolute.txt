@@ -1,0 +1,15 @@
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.UrlShortner.Functions\bin\output\Truckstop.Functions.ShortUrlGenerator.Domain.deps.json
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.UrlShortner.Functions\bin\output\Truckstop.Functions.ShortUrlGenerator.Domain.dll
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.UrlShortner.Functions\bin\output\Truckstop.Functions.ShortUrlGenerator.Domain.pdb
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.core\bin\Debug\net6.0\Truckstop.Functions.ShortUrlGenerator.Domain.deps.json
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.core\bin\Debug\net6.0\Truckstop.Functions.ShortUrlGenerator.Domain.dll
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.core\bin\Debug\net6.0\Truckstop.Functions.ShortUrlGenerator.Domain.pdb
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.core\obj\Debug\net6.0\Truckstop.Functions.ShortUrlGenerator.Domain.csproj.AssemblyReference.cache
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.core\obj\Debug\net6.0\Truckstop.Functions.ShortUrlGenerator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.core\obj\Debug\net6.0\Truckstop.Functions.ShortUrlGenerator.Domain.AssemblyInfoInputs.cache
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.core\obj\Debug\net6.0\Truckstop.Functions.ShortUrlGenerator.Domain.AssemblyInfo.cs
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.core\obj\Debug\net6.0\Truckstop.Functions.ShortUrlGenerator.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.core\obj\Debug\net6.0\Truckstop.Functions.ShortUrlGenerator.Domain.dll
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.core\obj\Debug\net6.0\refint\Truckstop.Functions.ShortUrlGenerator.Domain.dll
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.core\obj\Debug\net6.0\Truckstop.Functions.ShortUrlGenerator.Domain.pdb
+C:\Projects\V5\POC\TsShortUrlGenerator\AzFunctions\Truckstop.Functions.ShortUrlGenerator.core\obj\Debug\net6.0\ref\Truckstop.Functions.ShortUrlGenerator.Domain.dll
